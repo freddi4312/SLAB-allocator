@@ -1,0 +1,10 @@
+# Ignore all
+*.*
+
+# Except this
+!/*.c
+!/*.h
+!/*.sln
+!/*.vcxproj
+!/*.vcxproj.filters
+!/.gitignore
