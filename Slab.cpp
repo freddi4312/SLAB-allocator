@@ -2,7 +2,6 @@
 #include "Slab.h"
 #include "BuddyAlloc.h"
 
-using namespace std;
 
 
 void cache_setup(cache *cache, size_t object_size)
